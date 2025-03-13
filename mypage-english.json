@@ -1,0 +1,115 @@
+{
+  "currentLanguage": "EN",
+  "myPage": "My Page",
+  "earnPointBenefitsAndReceiveDiscountCouponsUponRegistration": "Earn Point Benefits and Receive Discount Coupons Upon Registration",
+  "logInSignUp": "Log In & Sign Up",
+  "recentlyViewedItems": "Recently Viewed Items",
+  "orderShippingInquiry": "Order/Shipping Inquiry",
+  "myReviews": "My Reviews",
+  "myInquiries": "My Inquiries",
+  "events": "Events",
+  "notices": "Notices",
+  "customerServiceCenter": "Customer Service Center",
+  "wishlistedItems": "Wishlisted Items",
+  "introduction": "Introduction",
+  "thisIsAnIntroduction": "This is an Introduction",
+  "username": "Username",
+  "bottomSize": "Bottom Size",
+  "topSize": "Top Size",
+  "orderShippingStatus": "Order/Shipping Status",
+  "paymentCompleted": "Payment Completed",
+  "refundRequest": "Refund Request",
+  "exchangeRequest": "Exchange Request",
+  "trackShipment": "Track Shipment",
+  "confirmPurchase": "Confirm Purchase",
+  "writeAReview": "Write a Review",
+  "deliveryCompleted": "Delivery Completed",
+  "viewReview": "View Review",
+  "coupons": "Coupons",
+  "newMemberCoupon": "New Member Coupon",
+  "forOrdersOver": "For Orders Over",
+  "validUntil": "Valid Until",
+  "enterCouponCode8or16Digits": "Enter Coupon Code (8 or 16 Digits)",
+  "orderPointsAccumulation": "Order Points Accumulation",
+  "enterAReviewTitle": "Enter a Review Title",
+  "enterAReviewDescription": "Enter a Review Description",
+  "review": "Review",
+  "settings": "Settings",
+  "notificationSettings": "Notification Settings",
+  "accessPermissionSettings": "Access Permission Settings",
+  "account": "Accounts",
+  "mobileVerification": "Mobile Verification",
+  "changePassword": "Change Password",
+  "termsPolicies": "Terms & Policies",
+  "termsOfService": "Terms of Service",
+  "privacyPolicy": "Privacy Policy",
+  "versionInformation": "Version Information",
+  "logOut": "Log Out",
+  "reset": "Reset",
+  "send": "Send",
+  "areYouSureYouWantToLogOut": "Are you sure you want to log out?",
+  "yes": "Yes",
+  "no": "No",
+  "lastUpdatedDate": "Last Updated Date",
+  "thankYouForUsingTheDesignBaseService": "These Terms of Use (hereinafter referred to as the 'Terms') constitute a legally binding agreement between the user (hereinafter referred to as the 'Member') and DesignBase regarding the use of the DesignBase website, application, and other services provided by DesignBase (collectively referred to as the 'DesignBase Platform'). The terms 'DesignBase' or 'we' used in these Terms refer to the entity of DesignBase with which the Member enters into this agreement.",
+  "roleOfThePlatformAndServices": "The DesignBase Platform provides an online space where users can post, offer, search for, book, and utilize various services. Members who post and offer services are referred to as 'Hosts,' while members who search for, book, or use these services are referred to as 'Guests.' Hosts provide design, consulting, event-related, or other services (collectively referred to as 'Host Services'). Each individual service offered by a Host is classified as a 'Listing.' DesignBase requires members to register an account to use its services, and members must ensure that their account information is always accurate and up to date. DesignBase does not own or operate the Host Services or Listings offered through the platform, nor is it a party to the contract between Hosts and Guests. Furthermore, DesignBase does not act as a real estate brokerage, travel agency, or insurance provider, nor does it serve as an agent for members, except as explicitly stated in the payment service terms.",
+  "companyStatement": "DesignBase (hereinafter referred to as the 'Company') values the privacy of its members and complies with the Personal Information Protection Act and other applicable laws and regulations. This Privacy Policy explains how the Company collects, uses, and protects members' personal information in connection with the services it provides.",
+  "1. Personal Information Collected and Collection Methods": {
+    "The Company collects the following personal information": {
+      "(1) Collected Items": {
+        "Required Information": [
+          "Name",
+          "Email address",
+          "Password",
+          "Contact information"
+        ],
+        "Optional Information": [
+          "Date of birth",
+          "Gender",
+          "Address",
+          "Profile picture"
+        ],
+        "Automatically Collected Information": [
+          "IP address",
+          "Cookies",
+          "Access logs",
+          "Device information"
+        ]
+      },
+      "(2) Collection Methods": [
+        "During account registration and service usage",
+        "When contacting customer support or participating in events",
+        "Automatically generated information (e.g., cookies, log records)"
+      ]
+    }
+  },
+  "2. Purpose of Collecting and Using Personal Information": {
+    "The Company utilizes the collected personal information for the following purposes": [
+      "Member management and authentication",
+      "Provision of services and usage record management",
+      "Responding to customer inquiries and handling complaints",
+      "Marketing and promotional activities (with optional consent)",
+      "Service improvement and new feature development"
+    ]
+  },
+  "3. Retention and Usage Period of Personal Information": {
+    "The Company deletes personal information without delay once the purpose of collection and use has been fulfilled. However, certain information may be retained for a specified period in accordance with applicable laws and regulations": {
+      "Contract and withdrawal-related records": "5 years",
+      "Service usage logs and access records": "3 months",
+      "Consumer complaints or dispute resolution records": "3 years"
+    }
+  },
+  "4. Provision and Delegation of Personal Information to Third Parties": {
+    "The Company does not provide personal information to third parties without the member's consent. However, certain tasks may be outsourced to external parties as necessary for service operation or as required by law.": {
+      "Entrusted Companies": [
+        "Example: Payment processors, delivery service providers"
+      ],
+      "Scope of Delegation": [
+        "Payment processing",
+        "Product delivery",
+        "Customer support"
+      ],
+      "Retention and Usage Period of Entrusted Companies": "Until the termination of the outsourcing contract"
+    }
+  }
+}
