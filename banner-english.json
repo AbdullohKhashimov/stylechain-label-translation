@@ -1,9 +1,8 @@
 {
   "currentLanguage": "EN",
-  "Up to 50% Discount": "Up to 50% Discount!",
-  "Shop Now": "Shop Now",
-  "A Warmer Year-End Than Ever, Smart Ways to Prepare for the New Year": "A Warmer Year-End Than Ever, Smart Ways to Prepare for the New Year",
-  "Even Greater Benefits in December": "Even Greater Benefits in December!",
-  "Online & Offline": "Online & Offline",
-  "First-Time Online Purchase: Limited 40% Coupon Giveaway": "First-Time Online Purchase: Limited 40% Coupon Giveaway!"
+  "bannerPanel": "Up to 50% Discount!",
+  "shopNow": "Shop Now",
+  "bannerCardAd": "A Warmer Year-End Than Ever, Smart Ways to Prepare for the New Year",
+  "onOffline": "Online & Offline",
+  "topBannerAd": "First-Time Online Purchase: Limited 40% Coupon Giveaway!"
 }

@@ -1,9 +1,8 @@
 {
   "currentLanguage": "KO",
-  "Up to 50% Discount": "최대 50% 할인!",
-  "Shop Now": "지금 쇼핑하기",
-  "A Warmer Year-End Than Ever, Smart Ways to Prepare for the New Year": "어느때보다 따듯한 연말, 알차게 새해 준비하는 방법",
-  "Even Greater Benefits in December": "12월에는 더 큰 혜택으로!",
-  "Online & Offline": "온&오프라인",
-  "First-Time Online Purchase: Limited 40% Coupon Giveaway": "온라인몰 첫구매시 선착순 40% 쿠폰 증정!"
+  "bannerPanel": "최대 50% 할인!",
+  "shopNow": "지금 쇼핑하기",
+  "bannerCardAd": "12월에는 더 큰 혜택으로! 어느때보다 따듯한 연말, 알차게 새해 준비하는 방법",
+  "onOffline": "온&오프라인",
+  "topBannerAd": "온라인몰 첫구매시 선착순 40% 쿠폰 증정!"
 }
