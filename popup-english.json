@@ -1,9 +1,9 @@
 {
   "currentLanguage": "EN",
-  "Live Special Offer: Up to 47% Discount": "Live Special Offer: Up to 47% Discount",
-  "Do not show this today": "Do not show this today",
-  "Close": "Close",
-  "Make Your Shopping More Economical": "Make Your Shopping More Economical",
-  "Click the advertisement banner now to receive a discount coupon. Smart shopping starts here": "Click the advertisement banner now to receive a discount coupon. Smart shopping starts here.",
+  "popupPanel": "Live Special Offer: Up to 47% Discount",
+  "notShow": "Do not show this today",
+  "close": "Close",
+  "fullscreenPanelMessage": "Make Your Shopping More Economical",
+  "fullscreenAd": "Click the advertisement banner now to receive a discount coupon. Smart shopping starts here.",
   "Up to": "Up to"
 }
